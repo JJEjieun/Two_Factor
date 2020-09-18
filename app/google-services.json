@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415712167872",
+    "firebase_url": "https://twofactor-d19ed.firebaseio.com",
+    "project_id": "twofactor-d19ed",
+    "storage_bucket": "twofactor-d19ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415712167872:android:092597b1c3715282992a25",
+        "android_client_info": {
+          "package_name": "com.example.twofactor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415712167872-viqtrapr1e5d02girgcnalinpjrtanv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twofactor",
+            "certificate_hash": "193adb87653305437d5d78e14876035bbb56cf9b"
+          }
+        },
+        {
+          "client_id": "415712167872-ee935jv51ar9bdq4ji68cc1fhftnmeuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLemM4WyCbvlPYpjtilJyO2sPfm6mGHiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415712167872-ee935jv51ar9bdq4ji68cc1fhftnmeuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
